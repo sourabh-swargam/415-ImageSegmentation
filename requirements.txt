@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+opencv-python-headless
+keras
+segmentation_models
+imgaug
+numpy==1.19.5
