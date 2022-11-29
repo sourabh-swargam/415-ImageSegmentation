@@ -1,7 +1,7 @@
-numpy
+numpy==1.21.5
 opencv-python-headless
-streamlit
-segmentation_models
-imgaug
-tensorflow
-keras
+streamlit==1.15.1
+segmentation_models==1.0.1
+imgaug==0.4.0
+tensorflow==2.10.1
+keras==2.10.0
